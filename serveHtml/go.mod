@@ -1,4 +1,4 @@
-module github.com/alperenkilic/natilon_webapi
+module github.com/alperenkilic/go_web/serveHtml
 
 go 1.16
 
