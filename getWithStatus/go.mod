@@ -1,4 +1,4 @@
-module github.com/alperenkilic/go_web/temporary
+module github.com/alperenkilic/go_web/getWithStatus
 
 go 1.16
 
